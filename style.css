@@ -1,0 +1,63 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+    font-size: 12px;
+    margin: 0;
+}
+h1{
+    font-size: 35px;
+}
+.digitalClassroom{
+    border-left: 3px solid red;
+    padding-left: 5px;
+    margin-top: 0;
+}
+.header-container{
+    background-color: rgb(248, 252, 255);
+    margin-top: 10px;
+}
+.flexible-container{
+    width: 50%;
+}
+.flexible-container img{
+    width: 100%;
+}
+.link-button{
+    text-decoration: none;
+    background-color: red;
+    color: white;
+    padding: 8px 20px;
+}
+.container{
+    display: flex;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.vision{
+    background-color: rgb(224, 236, 244);
+    margin-left: 12px;
+    margin-right: 12px;
+    padding: 10px 10px;
+}
+#vision{
+    background-color: rgb(253, 253, 215);
+}
+.font-color{
+    color: red;;
+}
+.container-margin{
+    padding-left: 40px;
+}
+.footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.footer h1{
+    margin-bottom: 0;
+}
+.footer p{
+    margin-top: 0;
+}
